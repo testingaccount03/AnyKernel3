@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=QuicksilveR Kernel by ghostrider-reborn
+kernel.string=Testing kernel by testingaccount03
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=ginkgo
-device.name2=willow
+device.name1=surya
+device.name2=
 device.name3=
 device.name4=
 device.name5=
